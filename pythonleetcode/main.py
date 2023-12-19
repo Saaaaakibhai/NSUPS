@@ -10,4 +10,18 @@ print(word)
 #Creating a empty list
 num=[]
 #appending data in list
-nums
+num.append(21)
+num.append(5.5)
+num.append("String")
+
+print(num)
+#creating a empty list
+Dict=[]
+#putting integer values
+Dict={1: 'geeks',2: 'geeks',3: 'geeks'}
+
+print(dict)
+#craeting a tuple which is immutable
+tup=('geeeks','for')
+
+
