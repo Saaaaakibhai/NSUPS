@@ -1,5 +1,13 @@
-# This is a sample Python script.
+print("Hello world!")
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+myNumber =3
+print(myNumber)
+myNumber2 =4.5
+print(myNumber2)
+word = "Assalamu Alaikum"
+print(word)
 
+#Creating a empty list
+num=[]
+#appending data in list
+nums
