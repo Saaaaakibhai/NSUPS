@@ -22,6 +22,9 @@ Dict={1: 'geeks',2: 'geeks',3: 'geeks'}
 
 print(dict)
 #craeting a tuple which is immutable
-tup=('geeeks','for')
+tup=('geeeks','for','the perfect man')
+print(tup)
+
+
 
 
