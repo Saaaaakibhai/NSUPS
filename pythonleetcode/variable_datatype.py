@@ -52,12 +52,12 @@
 # for step in range(5):
 #     print(step)
 
+#
+# num = input("Enter the number boss: ")
+# print("here the number: ",num)
+#
 
-
-
-
-
-
-
-
+num1 = float(input())
+num2 = float(input())
+print(num1+num2)
 
